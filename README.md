@@ -1,1 +1,3 @@
-# Flask_Blog_API
+# Flask_Blog_APi
+
+An interactive RESTFUL API.
